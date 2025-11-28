@@ -36,3 +36,5 @@ If you want, I can also:
 ✅ Create a frontend UI for interacting with the ledger  
 
 Just tell me!
+contract address: 0xd9145CCE52D386f254917e481eB44e9943F39138
+<img width="962" height="679" alt="Screenshot 2025-11-28 103445" src="https://github.com/user-attachments/assets/8982e07e-eb4c-4a5b-9fa3-8c785ecbec8a" />
